@@ -270,7 +270,7 @@ gtag("config", "GT-WP5CMNH");
 <center>
   <p>
     <a class="no-underline text-blue hover:underline text-normal block sm:inline" href="https://www.youtube.com/@Fananimetion">
-      <span style="font-size: 30px; color: #FF0000;"><b>Join our Channel YouTube</b></span>
+      <span style="font-size: 30px; color: black;"><b>Join our Channel YouTube</b></span>
     </a>
   </p>
 </center></div>
